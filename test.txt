@@ -1,0 +1,1 @@
+This is the write CommandIt allows us to write in a Particuler file
